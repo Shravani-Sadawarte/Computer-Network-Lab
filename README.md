@@ -5,8 +5,8 @@
 
 | Details | Information |
 |---|---|
-| **Name** | Vedant Nawghare |
-| **PRN** | 24070521047 |
+| **Name** | Shravani Sadawarte |
+| **PRN** | 24070521287 |
 | **Section** | A2 |
 | **Subject** | Computer Networks |
 | **Academic Institution** | Symbiosis Institute of Technology, Nagpur |
@@ -70,7 +70,7 @@ Computer-Network-Lab/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Vedantnawghare/Computer-Network-Lab.git
+git clone https://github.com/Shravani-Sadawarte/Computer-Network-Lab.git
 ```
 
 2. Navigate to the repository:
